@@ -22,8 +22,8 @@ spring:
   mail:
     host: smtp.mailtrap.io
     port: 25
-    username: ce10f8fcc34335
-    password: f9343bf10c0bcc
+    username: 
+    password: 
     protocol: smtp
 
 jwt:
